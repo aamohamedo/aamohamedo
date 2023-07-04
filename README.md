@@ -2,7 +2,7 @@
 <h3 align="center">Im a former Architectural Technologist turned coding enthusiast. I decided to trade in my hard hat for a coding hat and embark on a new adventure in development</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on Expense Tracker App<br><br>🌱 I’m currently learning TypseScript and MongoDB<br><br>💬 Ask me about Javascript, React.JS, HTML, CSS, Node.JS and SQL<br><br>📫 How to reach me aamohamedo888@gmail.com<br><br>⚡ Fun fact I speak over 3 languages fluently
+🎉 I have recently finished a 16-week bootcamp at the School of Code, where I obtained comprehensive training as a Full-stack Developer. <br><br>🔭 I’m currently working on Expense Tracker App<br><br>🌱 I’m currently learning TypseScript and MongoDB<br><br>💬 Ask me about Javascript, React.JS, HTML, CSS, Node.JS and SQL<br><br>📫 How to reach me aamohamedo888@gmail.com<br><br>⚡ Fun fact I speak over 3 languages fluently
 
 
 ## 🌐 Socials:
