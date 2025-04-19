@@ -1,21 +1,23 @@
 # Hi, I'm Anas 👋
 
-I'm a junior software developer navigating my way through the world of code — slowly, quietly, and with a lot of curiosity.
+I'm a junior software developer with real-world experience, currently working in a professional development team and continuing to grow my skills one project at a time.
 
-I don’t have all the answers (and probably never will), but I’m someone who enjoys figuring things out piece by piece. I'm not here to show off. I’m here to learn, build, and get a little better every day — even if it’s just by one line of code.
+Before this, I completed a software development bootcamp that helped me lay the foundations — but most of my learning has come from showing up daily, making mistakes, and figuring things out on the job.
 
-You won’t find anything groundbreaking here (yet), but you’ll find a genuine journey in progress — one that’s far from perfect, but real.
+I'm not in a rush to "arrive." I’m just here to keep improving, build things that work, and enjoy the process.
+
+You won’t find anything flashy here — just an honest journey from someone who’s genuinely trying to get better at this craft.
 
 ---
 
 ### 🧰 Tech Stack
 
-- 💻 C# / .NET
-- 🌐 ASP.NET MVC / Razor Pages
-- 🛢️ SQL Server
-- 🔧 Entity Framework Core
-- 🗂️ HTML / CSS / JavaScript
-- 📦 Git & GitHub
+- 💻 C# / .NET  
+- 🌐 ASP.NET MVC / Razor Pages  
+- 🛢️ SQL Server  
+- 🔧 Entity Framework Core  
+- 🗂️ HTML / CSS / JavaScript  
+- 📦 Git & GitHub  
 
 ---
 
