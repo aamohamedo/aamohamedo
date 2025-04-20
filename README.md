@@ -1,4 +1,4 @@
-# Hi, I'm Anas 👋
+# Hi 👋
 
 I'm a junior software developer with real-world experience, currently working in a professional development team and continuing to grow my skills one project at a time.
 
